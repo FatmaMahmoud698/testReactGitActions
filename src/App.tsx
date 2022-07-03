@@ -8,7 +8,6 @@ import {
 import About from './About';
 import Home from './Home';
 import External from './External';
-
 function App() {
   return (
     <Router basename={process.env.PUBLIC_URL}>
